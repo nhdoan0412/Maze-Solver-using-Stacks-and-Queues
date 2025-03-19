@@ -1,0 +1,12 @@
+---
+:id: 252992880
+:submitters:
+- :name: Nhan Doan
+  :email: nhdoan@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-05-08 06:10:34.446910000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-05-07 23:10:34.446910000 Z
+:status: processed
+:score: 32.0
